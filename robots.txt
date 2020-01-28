@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uuvuecohx.bigg.top/sitemap.xml
